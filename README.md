@@ -3,6 +3,10 @@
 后台数据库采用mongodb
 网路tomcat 8.5.54
 pom.xml:
+
+
+
+
    <dependencies>
         <dependency>
             <groupId>javax</groupId>
